@@ -1,0 +1,17 @@
+
+#background-image {
+    background-image: url('Grocery-shopping.jpg'); 
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    filter: blur(2px) brightness(0.5);
+  }
+  
+  
+  
+  
